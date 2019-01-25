@@ -9,8 +9,8 @@ A simple wrapper for searching for thesis and documents publicly available by Fr
 
 | **Argument**   | **Type**        | **Default**    | **Required?** |
 |----------------|-----------------|----------------|---------------|
-| `pages`        | int             | 1             | No            |
-| `q`            | string          | `""`          | Yes           |
-| `detail`       | binary          | `False`       | No            |
+| `q`            | string          | `""`           | Yes           |
+| `pages`        | int             | 1              | No            |
+| `details`      | binary          | `False`        | No            |
 
 
