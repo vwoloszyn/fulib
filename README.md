@@ -1,5 +1,5 @@
 # fulib
-A simple wrapper for searching for thesis and documents publicly available by Freie Universität.
+A simple crawler for searching for thesis and documents publicly available by Freie Universität.
 
 ```python
     import fulib
