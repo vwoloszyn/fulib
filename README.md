@@ -7,6 +7,13 @@ A simple crawler for searching for thesis and documents publicly available by Fr
     print (q)
 ```
 
+
+```json
+Here goes your json object definition
+```
+
+
+
 | **Argument**   | **Type**        | **Default**    | **Required?** |
 |----------------|-----------------|----------------|---------------|
 | `q`            | string          | `""`           | Yes           |
