@@ -8,7 +8,7 @@ A simple crawler for searching for thesis and documents publicly available by Fr
 ```
 
 
-```json
+```javascript
 [
   {
     'title': 'Fake news',
