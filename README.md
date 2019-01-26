@@ -7,7 +7,7 @@ A simple crawler for searching for thesis and documents publicly available by Fr
     print (q)
 ```
 
-
+output:
 ```javascript
 [
   {
