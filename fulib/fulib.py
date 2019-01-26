@@ -56,7 +56,7 @@ def query(q,pages=1,detail=False):
     if detail:
         for e in elemts_:
             print (e["link"])
-            #driver.get(e["link"])
+            driver.get(e["link"])
             _wait_details()
             for row in driver.find_elements_by_xpath("//div[@layout='row']"):
                 if (len(row.find_elements_by_class_name("flex"))>1):
